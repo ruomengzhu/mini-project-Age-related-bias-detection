@@ -1,4 +1,4 @@
-# mini-project-Age-related-bias-detection
+# mini-analysis-Age-related-bias-detection
 
 # Age Bias Analysis in Hiring Decisions
 
