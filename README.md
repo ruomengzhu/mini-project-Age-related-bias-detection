@@ -10,10 +10,9 @@ This project explores the effect of age-related bias in hiring decisions using a
 - **Modeling**: Implementation of a biased and unbiased hiring decision model.
 - **Key Findings**: Impact of bias and comparisons between models.
 
-## How to Run
-- Clone the repository.
-- Install required dependencies using `pip install -r requirements.txt`.
-- Run the notebook in Jupyter to reproduce results.
+## Files
+- simulated_data.csv: A simulated dataset generated as part of the mini-project to explore algorithmic bias in decision-making.
+- project_output.html: An HTML file containing the complete code, outputs, and visualizations from the analysis.
 
 ## Key Findings
 - Significant age bias was identified, affecting older candidates' chances of getting hired.
