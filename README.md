@@ -12,7 +12,7 @@ This project explores the effect of age-related bias in hiring decisions using a
 
 ## Files
 - simulated_data.csv: A simulated dataset generated as part of the mini-project to explore algorithmic bias in decision-making.
-- project_output.html: An HTML file containing the complete code, outputs, and visualizations from the analysis.
+- project_output.html: An HTML file containing the complete code, outputs, and visualizations from the analysis (preliminary analysis).
 
 ## Key Findings
 - Significant age bias was identified, affecting older candidates' chances of getting hired.
